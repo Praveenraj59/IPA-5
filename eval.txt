@@ -1,0 +1,32 @@
+
+thesee are the metrics is it ok 
+
+Model Evaluation for AAPL: 
+MAE: 3.5651
+MSE: 21.9456
+RMSE: 4.6846
+R-squared: 0.9940
+
+Model Evaluation for AMZN:
+MAE: 3.3404
+MSE: 20.5693
+RMSE: 4.5353
+R-squared: 0.9874
+
+Model Evaluation for GOOGL: 
+MAE: 2.5885
+MSE: 12.0993
+RMSE: 3.4784
+R-squared: 0.9926
+
+Model Evaluation for TSLA:
+MAE: 8.4601
+MSE: 151.5163
+RMSE: 12.3092
+R-squared: 0.9884
+
+Model Evaluation for MSFT:
+MAE: 5.6077
+MSE: 56.9987
+RMSE: 7.5497
+R-squared: 0.9951
